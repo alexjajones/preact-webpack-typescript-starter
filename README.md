@@ -30,9 +30,9 @@ npm run start:dev
 
 
 ## Building for production (/dist)
-
-`npm run build:prod`
-
+```
+npm run build:prod
+```
 
 ## Contributing
 
