@@ -4,25 +4,21 @@
 - **Very simple:** take a look at the source
 - **Minimal:** only depends on Preact at runtime
 
----------------------------------------
 
 ## Installation
 
 `npm install`
 
----------------------------------------
 
 ## Getting up and going with live reloading development
 
 `npm run start:dev`
 
----------------------------------------
 
 ## Building for production (/dist)
 
 `npm run build:prod`
 
----------------------------------------
 
 ## Contributing
 
@@ -32,7 +28,6 @@
 4. Push to the branch: `git push origin my-new-feature`
 5. Submit a pull request!
 
----------------------------------------
 
 ## License
 
