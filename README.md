@@ -1,18 +1,32 @@
 ## 🔰⚛️ Preact Webpack Typescript Starter
 > Simple Preact starter project, built with Webpack 2 and Typescript 2.
 
+- **Tiny production bundle:** only 4kb (gzipped) 🔥
+- **Super quick load times:** tests show 348ms for complete page load
+- **Strict type safety:** enforces strict checking by default
 - **Very simple:** take a look at the source
-- **Minimal:** only depends on Preact at runtime
+- **Unopinionated runtime:** only depends on Preact at runtime
 
 
 ## Installation
 
-`npm install`
+```
+# Clones repo
+git@github.com:alexjajones/preact-webpack-typescript-starter.git
+
+# Go to newly created folder
+cd preact-webpack-typescript-starter
+
+# Install dependencies
+npm install
+```
 
 
 ## Getting up and going with live reloading development
 
-`npm run start:dev`
+```
+npm run start:dev
+```
 
 
 ## Building for production (/dist)
